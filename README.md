@@ -1,7 +1,6 @@
-IDEIA:
-nome do app : DOCGOV
+APP: DOCGOV
 Criar um aplicativo que comporte os documentos oficiais, que
-precisamos ter como: rg e cpf, tudo dentro de um só lugar,sendo
+precisamos ter como: rg e cpf, cnh, tudo dentro de um só lugar,sendo
 vinculado com o GOV, trazendo praticidade e ainda usando
 menos armazenamento no smartphone.
 PROBLEMA/SOLUÇÃO:
