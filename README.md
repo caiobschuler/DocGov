@@ -35,6 +35,7 @@ mesma visão de negócio.
 Além disso, é ele quem se responsabiliza por levantar capital para
 a empresa, expandir as operações e guiar o desenvolvimento de
 talentos.
+
 CFO - Chief Financial Officer - FELIPE SANTOS
 Já o CFO é o líder estratégico do departamento financeiro. Ele é o
 responsável por gerenciar os recursos da empresa.
@@ -42,6 +43,7 @@ Também entre as responsabilidades do CFO estão: assegurar que
 a organização tem capital suficiente para continuar operando e
 crescendo, além de manter os investidores informados sobre
 como estão caminhando as operações.
+
 CTO - Chief Technology Officer - ARTUR SALES
 Por sua vez, o CTO é o responsável pela área de tecnologia da
 empresa. E muito se engana quem pensa que esse cargo existe
@@ -49,18 +51,21 @@ apenas em empresas de tecnologia.
 A presença de um CTO em uma organização pode ajudar na
 transformação digital da empresa e em sua adaptação a, e
 adoção de, avanços tecnológicos.
+
 COO - Chief Operating Officer - CAIO BRAGA
 Considerado o braço direito do CEO, o COO é o responsável por
 supervisionar toda a operação dentro do negócio.
 Isso significa que ele tem a responsabilidade de garantir que a
 visão do CEO está se concretizando em todos os níveis da
 operação.
+
 CMO - Chief Marketing Officer - GEORGE NETO
 Dentro do C-suite ainda existe a figura do CMO, o responsável
 pela visão estratégica e apurada no setor de marketing de uma
 organização.
 Este profissional tem como função conduzir e supervisionar as
 ações de atração e fidelização de clientes.
+
 CHRO - Chief Human Resources Officer -
 CAMILLA WANDERLEY
 Por fim, o cargo de CHRO pertence à liderança responsável pelo
