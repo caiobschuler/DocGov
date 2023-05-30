@@ -25,6 +25,7 @@ um só lugar gerando praticidade, esses documentos são:
 7. Reservista online
 8. Certidão de nascimento
 9. Passaporte
+10. Carteira de vacinação 
 
 
 CARGOS:
