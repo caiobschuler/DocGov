@@ -1,4 +1,4 @@
-APP: DOCGOV
+DOCGOV
 Criar um aplicativo que comporte os documentos oficiais, que
 precisamos ter como: rg e cpf, cnh, tudo dentro de um só lugar,sendo
 vinculado com o GOV, trazendo praticidade e ainda usando
@@ -15,15 +15,17 @@ documento acaba não tendo um aplicativo para ter a versão
 daquele determinado documento online.
 Com o nosso aplicativo vamos colocar todos os documentos em
 um só lugar gerando praticidade, esses documentos são:
-1. Carteira de trabalho
-2. carteira de trabalho CTPS digital;
-3. Título do eleitor e-Título;
-4. RG
-5. CNH
-6. CPF
-7. Carteirinha SUS
-8. Carteira de plano de saúde particular
-9. Cartões de conta bancária
+
+1. carteira de trabalho CTPS digital
+2. Título do eleitor e-Título
+3. RG
+4. CNH
+5. CPF
+6. Carteirinha SUS
+7. Reservista online
+8. Certidão de nascimento
+9. Passaporte
+
 
 CARGOS:
 
@@ -44,7 +46,7 @@ a organização tem capital suficiente para continuar operando e
 crescendo, além de manter os investidores informados sobre
 como estão caminhando as operações.
 
-CTO - Chief Technology Officer - ARTUR SALES
+CTO - Chief Technology Officer - CAIO BRAGA/FELIPE SANTOS
 Por sua vez, o CTO é o responsável pela área de tecnologia da
 empresa. E muito se engana quem pensa que esse cargo existe
 apenas em empresas de tecnologia.
@@ -52,14 +54,14 @@ A presença de um CTO em uma organização pode ajudar na
 transformação digital da empresa e em sua adaptação a, e
 adoção de, avanços tecnológicos.
 
-COO - Chief Operating Officer - CAIO BRAGA
+COO - Chief Operating Officer - GEORGE NETO
 Considerado o braço direito do CEO, o COO é o responsável por
 supervisionar toda a operação dentro do negócio.
 Isso significa que ele tem a responsabilidade de garantir que a
 visão do CEO está se concretizando em todos os níveis da
 operação.
 
-CMO - Chief Marketing Officer - GEORGE NETO
+CMO - Chief Marketing Officer - ARTUR SALES 
 Dentro do C-suite ainda existe a figura do CMO, o responsável
 pela visão estratégica e apurada no setor de marketing de uma
 organização.
