@@ -79,3 +79,6 @@ Ele é o responsável por atender à demanda de capital humano de
 uma empresa e também por capacitar colaboradores e
 lideranças, assegurando que o negócio tem o que precisa para
 funcionar sem problemas de fit cultural e competências.
+
+![WhatsApp Image 2023-06-04 at 19 09 49](https://github.com/caiobschuler/DocGov/assets/134649176/8beb2ff1-2185-41f8-9c74-3103978e2a87)
+
